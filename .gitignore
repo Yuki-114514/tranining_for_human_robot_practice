@@ -1,0 +1,17 @@
+# 忽略 Python 虚拟环境
+.venv/
+venv/
+env/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 其他可以忽略的文件夹 (根据你的项目添加)
+.idea/
+.vscode/
+build/
+dist/
+*.egg-info/
